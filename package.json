@@ -5,5 +5,23 @@
     "express": "^4.15.3",
     "express-validator": "^3.2.1",
     "mustache-express": "^1.2.5"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "login",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaviJasso/login.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaviJasso/login/issues"
+  },
+  "homepage": "https://github.com/JaviJasso/login#readme",
+  "description": ""
 }
